@@ -10,6 +10,14 @@ A **Django-based** web application that allows users to browse a restaurant's me
 ✅ **Admin Dashboard** – Restaurant owners can manage orders, inventory, and customers.  
 ✅ **Responsive UI** – Works seamlessly on all devices.  
 
+## 📸 Screenshots  
+
+### 🏠 Homepage  
+
+
+### 🍽️ Menu Page  
+![Menu](https://raw.githubusercontent.com/anshullsharma/fast-food-restaurants/main/screenshots/menu.png)  
+
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Django (Python)  
