@@ -16,7 +16,7 @@ A **Django-based** web application that allows users to browse a restaurant's me
 https://github.com/anshullsharma/fast-food-restaurants/blob/main/home.png?raw=true
 
 ### 🍽️ Menu Page  
-![Menu](https://raw.githubusercontent.com/anshullsharma/fast-food-restaurants/main/screenshots/menu.png)  
+https://github.com/anshullsharma/fast-food-restaurants/blob/main/menu.png?raw=true 
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
